@@ -3,6 +3,7 @@ import pandas as pd    #LIBRERIA DE PANDAS PARA MANEJO DE EXCEL
 from PIL import Image  
 import base64          #LIBRERIA PARA TRABAJAR CON LOS FONDOS
 from Levenshtein import ratio
+
 #Hola MUNDO: Iremos paso por paso en la creación de esta app:
 
 
